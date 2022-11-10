@@ -88,7 +88,7 @@ section>img {
 
 /* ========= Component Styles ===========*/
 main {
-    background-image: url(/images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
+    background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: -100% 200%, 150% -100%;
     background-color: var(--clr-dark-cyan);
